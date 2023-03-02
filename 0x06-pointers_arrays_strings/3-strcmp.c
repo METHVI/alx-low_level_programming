@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strmp - compare string values
+ * _strcmp - compare string values
  * @s1: input value
  * @s2: input value
  * Return: si[i] - s2[i]
